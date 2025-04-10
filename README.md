@@ -35,56 +35,49 @@ yaml
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/maheswaramsubrahmanyam/Virtual_Shopping_Assistant.git
-cd Virtual_Shopping_Assistant/virtual-shop-assistant
-2. Install Dependencies
-bash
-Copy
-Edit
+## 2. Install Dependencies
+```bash
 npm install
-3. Run the App Locally
-bash
-Copy
-Edit
+```
+
+## 3. Run the App Locally
+```bash
 npm start
-Frontend will run on: http://localhost:3000
+```
+Frontend will run on: [http://localhost:3000](http://localhost:3000)
 
-4. Admin Panel
-Open admin.html in your browser to manually manage products (basic static admin page).
+## 4. Admin Panel
+Open `admin.html` in your browser to manually manage products (basic static admin page).
 
-🧠 AI & Voice Interaction
-Uses Web Speech API for voice recognition and synthesis.
+---
 
-AI Assistant understands customer queries and provides product recommendations.
+## 🧠 AI & Voice Interaction
+- Uses **Web Speech API** for voice recognition and synthesis.
+- AI Assistant understands customer queries and provides product recommendations.
 
-✨ Usage
-Start the application.
+---
 
-Click the microphone icon to speak with the assistant.
+## ✨ Usage
+1. Start the application.
+2. Click the **microphone icon** to speak with the assistant.
+3. Get intelligent **product suggestions**.
+4. Add items to your cart.
+5. Proceed to **checkout**.
 
-Get intelligent product suggestions.
+---
 
-Add items to your cart.
+## 📦 Future Enhancements
+- ✅ User Authentication  
+- 🧾 Order History  
+- 💳 Online Payments  
+- 📊 Admin Analytics Dashboard  
 
-Proceed to checkout.
+---
 
-📦 Future Enhancements
-✅ User Authentication
-
-🧾 Order History
-
-💳 Online Payments
-
-📊 Admin Analytics Dashboard
-
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
-MIT License © 2025 Maheswaram M V Subrahmanyam
+---
 
-css
-Copy
-Edit
-
-Let me know if you want to include badges, screenshots, or a demo video section.
+## 📄 License
+**MIT License** © 2025 Maheswaram M V Subrahmanyam
