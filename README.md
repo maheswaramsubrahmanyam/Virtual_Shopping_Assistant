@@ -37,4 +37,54 @@ yaml
 ```bash
 git clone https://github.com/maheswaramsubrahmanyam/Virtual_Shopping_Assistant.git
 cd Virtual_Shopping_Assistant/virtual-shop-assistant
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the App Locally
+bash
+Copy
+Edit
+npm start
+Frontend will run on: http://localhost:3000
 
+4. Admin Panel
+Open admin.html in your browser to manually manage products (basic static admin page).
+
+🧠 AI & Voice Interaction
+Uses Web Speech API for voice recognition and synthesis.
+
+AI Assistant understands customer queries and provides product recommendations.
+
+✨ Usage
+Start the application.
+
+Click the microphone icon to speak with the assistant.
+
+Get intelligent product suggestions.
+
+Add items to your cart.
+
+Proceed to checkout.
+
+📦 Future Enhancements
+✅ User Authentication
+
+🧾 Order History
+
+💳 Online Payments
+
+📊 Admin Analytics Dashboard
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+MIT License © 2025 Maheswaram M V Subrahmanyam
+
+css
+Copy
+Edit
+
+Let me know if you want to include badges, screenshots, or a demo video section.
