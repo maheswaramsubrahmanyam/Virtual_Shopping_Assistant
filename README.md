@@ -23,4 +23,18 @@ An AI-powered shopping assistant that guides users through an online store via *
 ---
 
 ## 📁 Folder Structure
+Virtual_Shopping_Assistant/ ├── admin.html ├── index.html └── virtual-shop-assistant/ ├── components/ ├── pages/ ├── services/ ├── utils/ ├── App.tsx └── index.tsx
+
+yaml
+
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/maheswaramsubrahmanyam/Virtual_Shopping_Assistant.git
+cd Virtual_Shopping_Assistant/virtual-shop-assistant
 
